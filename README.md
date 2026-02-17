@@ -1,1 +1,3 @@
 # Portfolio_Ashwini
+
+This is my personal portfolio website built using HTML, CSS, and JavaScript to showcase my projects, education, and technical skills. The website features a clean and responsive design that works smoothly across different devices. It includes smooth scrolling navigation, a typing animation effect on the homepage, and scroll-based animations for projects and skills using JavaScript. The layout is structured and user-friendly, making it easy to explore different sections such as Home, Projects, Education, Skills, and Contact. This project demonstrates my understanding of front-end development, DOM manipulation, and modern web design techniques, and reflects my passion for creating interactive and visually appealing web applications.
